@@ -7,6 +7,8 @@ Perfect for Wi-Fi experiments, stress testing, and educational network security 
 ## Check Some Updates ? Join our Telegram 
 https://t.me/+oQWjdRF1wUQyMjBl
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X71M0J84)
+
 > ⚠️ **Important Note**  
 > 🔴 It **may not function properly on modern 5GHz routers/modems**, which are not vulnerable to typical deauth or beacon flood techniques due to band separation and stricter security protocols.
 
