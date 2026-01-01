@@ -86,6 +86,12 @@ Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) m
 
 ## How to Upload Firmware 
 
+## WEB FLASHER 
+
+[FLASH HERE](https://flasher.rusprojects.com/)
+
+![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/online-flasher.png)
+
 ### 📥 Flashing Instructions (BW16)
 ![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/flasher1.png)
 
