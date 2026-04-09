@@ -5,7 +5,7 @@ Includes tools like **DEAUTH ALL**, **Targeted Disruption (Per Station / Client)
 Perfect for Wi-Fi experiments, stress testing, and educational network security research.
 
 ## Check Some Updates ? Join our Telegram 
-https://t.me/+oQWjdRF1wUQyMjBl
+https://t.me/+2b0bppqzackxZTg1
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X71M0J84)
 
