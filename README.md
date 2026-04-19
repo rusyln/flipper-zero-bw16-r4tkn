@@ -37,10 +37,16 @@ Some third-party BW16 dev boards (often sold on AliExpress/other marketplaces) m
  - [readme.so](https://github.com/octokatherine/readme.so)
 
 
+🆕 Update Notice
+fix: update FAP file to remove App Too Old warning
+
+The latest release includes a compatibility fix for the Flipper Zero app.
+
+If you previously installed an older .fap file, please remove it first before installing the updated version to avoid conflicts or the App Too Old warning.
 
 ⚠️ **Available Internationally**  
  - This is already have an full working version of this firmware , not this repo
- - Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-dual-band-wifi-board.html)
+ - Buy Here: [Elecrow](https://www.elecrow.com/flipper-zero-bw16-rtl8720dn-x-nrf24-dual-band-wi-fi-board.html)
 
 ## Features
 
