@@ -94,7 +94,7 @@ If you previously installed an older .fap file, please remove it first before in
 
 ## WEB FLASHER 
 
-[FLASH HERE](https://flasher.rusprojects.com/)
+[FLASH HERE](https://flasher.sigbinlabs.com/)
 
 ![](https://github.com/rusyln/flipper-zero-bw16-r4tkn/blob/master/Screenshot/online-flasher.png)
 
